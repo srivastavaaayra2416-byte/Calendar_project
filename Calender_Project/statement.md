@@ -13,4 +13,4 @@ The project provides a graphical interface displaying a standard calendar. Users
 * Dynamic calendar generation.
 * Graphical User Interface (Tkinter).
 * CRUD logic (Create and Read events).
-* File-based data persistence (JSON).
+* File-based data persistence (.txt).
