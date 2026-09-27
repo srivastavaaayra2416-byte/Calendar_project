@@ -6,7 +6,7 @@ A desktop calendar application built with Python and Tkinter. It allows users to
 ## Features
 * Interactive monthly grid view
 * Add events with titles and descriptions to specific days
-* Persistent local storage (saves events to a JSON file)
+* Persistent local storage 
 * Month/Year navigation
 
 ## Technologies/Tools Used
