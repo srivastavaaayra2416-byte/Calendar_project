@@ -12,7 +12,7 @@ A desktop calendar application built with Python and Tkinter. It allows users to
 ## Technologies/Tools Used
 * Python 3.x
 * Tkinter (GUI framework)
-* JSON (Data storage)
+* .txt
 
 ## Steps to Install & Run
 1. Ensure Python 3 is installed on your system.
